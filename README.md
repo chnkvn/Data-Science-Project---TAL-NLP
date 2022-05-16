@@ -15,9 +15,13 @@ Make sure you have at least Python 3.8 and conda installed on your computer.
 
 You will have to manually install the wptools package, using these following lines.
 >conda remove zeromq 
+>
 >conda install zeromq 
+>
 >conda install conda-build 
+>
 >conda install pycurl 
+>
 >pip3 install wptools
 
 ## Getting started
