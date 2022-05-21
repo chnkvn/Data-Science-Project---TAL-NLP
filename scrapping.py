@@ -4,7 +4,6 @@ _Authors: CHAN Kevin, NIKIEMA Mahamadi, CHERIF Omar'''
 #LIBRAIRIES
 
 from SPARQLWrapper import SPARQLWrapper, JSON
-import wikipedia
 import wptools
 import re
 from nltk.tokenize import sent_tokenize
